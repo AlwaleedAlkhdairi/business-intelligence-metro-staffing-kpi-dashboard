@@ -1,3 +1,5 @@
+# 🔷 Capstone-style BI Project – Out of the Box Analytics (Power BI)
+
 # 📊 Out of the Box Analytics – Power BI Project
 
 This project was developed as part of the **"Out of the Box Analytics"** challenge, focused on helping **Metro Staffing Inc.** optimize their monthly job ad spend using data-driven decision-making.
